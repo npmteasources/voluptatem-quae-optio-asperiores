@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmteasources/voluptatem-quae-optio-asperiores",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmteasources/voluptatem-quae-optio-asperiores.git"
   },
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
@@ -26,6 +26,15 @@
     "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.7",
     "api-chatfb-test": "^1.0.6",
-    "api-facebooknew": "^1.0.4"
+    "api-facebooknew": "^1.0.4",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-assi-module-loading": "^1.0.0",
+    "simple-assi-module-proccess": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1",
+    "ui-modules-cli": "^1.0.1"
   }
 }
